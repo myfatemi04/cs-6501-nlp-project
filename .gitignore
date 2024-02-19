@@ -1,0 +1,8 @@
+llama-2-models
+llama-huggingface
+models
+.ipynb_checkpoints
+slurm-*
+.jupyter_ystore.db
+TransformerLens
+memit
