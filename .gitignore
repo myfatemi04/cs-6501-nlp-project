@@ -9,3 +9,4 @@ memit
 *.pkl
 *_env
 **/__pycache__
+wandb
