@@ -6,3 +6,6 @@ slurm-*
 .jupyter_ystore.db
 TransformerLens
 memit
+*.pkl
+*_env
+**/__pycache__
