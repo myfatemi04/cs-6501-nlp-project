@@ -5,10 +5,12 @@ import torch.nn as nn
 import transformers
 from transformers import Cache, PhiModel
 from transformers.models.phi.modeling_phi import apply_rotary_pos_emb, repeat_kv, PhiAttention, PhiDecoderLayer, PhiMLP
-from typing import Optional, Tuple
+from typing import Optional, Tuple, Callable
 
 
-def attach_hooks(phi: PhiModel, mlp_post_activation_hook, attn_weights_hook):
+def attach_hooks(phi: PhiModel,
+                 mlp_post_activation_hook: Optional[Callable[[torch.Tensor, int], torch.Tensor]] = None,
+                 attn_weights_hook: Optional[Callable[[torch.Tensor, int], torch.Tensor]] = None):
     MLP_LAYER_IDXS = {}
     ATTENTION_LAYER_IDXS = {}
 
@@ -18,9 +20,8 @@ def attach_hooks(phi: PhiModel, mlp_post_activation_hook, attn_weights_hook):
         hidden_states = phi_mlp.activation_fn(hidden_states)
 
         ### HOOK INJECTION ###
-        layer_idx = MLP_LAYER_IDXS[phi_mlp]
-
         if mlp_post_activation_hook is not None:
+            layer_idx = MLP_LAYER_IDXS[phi_mlp]
             hidden_states = mlp_post_activation_hook(hidden_states, layer_idx)
 
         hidden_states = phi_mlp.fc2(hidden_states)
@@ -108,8 +109,9 @@ def attach_hooks(phi: PhiModel, mlp_post_activation_hook, attn_weights_hook):
         attn_weights = nn.functional.dropout(attn_weights, p=phi_attn.attention_dropout, training=phi_attn.training)
 
         ### HOOK INJECTION: Modify attention weights ###
-        layer_idx = ATTENTION_LAYER_IDXS[phi_attn]
-        attn_weights = attn_weights_hook(attn_weights, layer_idx)
+        if attn_weights_hook is not None:
+            layer_idx = ATTENTION_LAYER_IDXS[phi_attn]
+            attn_weights = attn_weights_hook(attn_weights, layer_idx)
 
         attn_output = torch.matmul(attn_weights, value_states)
 
@@ -131,13 +133,13 @@ def attach_hooks(phi: PhiModel, mlp_post_activation_hook, attn_weights_hook):
     
     # Add hooks.
     for (layer_idx, decoder_layer) in enumerate(phi.layers):
-        assert isinstance(decoder_layer, PhiDecoderLayer)
+        # assert isinstance(decoder_layer, PhiDecoderLayer), "decoder_layer had type " + repr(type(decoder_layer))
 
         mlp = decoder_layer.mlp
         attn = decoder_layer.self_attn
 
-        assert isinstance(mlp, PhiMLP)
-        assert isinstance(attn, PhiAttention)
+        # assert isinstance(mlp, PhiMLP), "mlp had type " + repr(type(mlp))
+        # assert isinstance(attn, PhiAttention), "attn had type " + repr(type(attn))
 
         MLP_LAYER_IDXS[mlp] = layer_idx
         mlp.forward = hooked_mlp_forward.__get__(mlp, PhiMLP)
@@ -145,3 +147,14 @@ def attach_hooks(phi: PhiModel, mlp_post_activation_hook, attn_weights_hook):
         ATTENTION_LAYER_IDXS[attn] = layer_idx
         attn.forward = hooked_attn_forward.__get__(attn, PhiAttention)
 
+def detach_hooks(phi: PhiModel):
+    for decoder_layer in phi.layers:
+        # assert isinstance(decoder_layer, PhiDecoderLayer)
+        mlp = decoder_layer.mlp
+        attn = decoder_layer.self_attn
+
+        # assert isinstance(mlp, PhiMLP)
+        # assert isinstance(attn, PhiAttention)
+
+        mlp.forward = PhiMLP.forward.__get__(mlp, PhiMLP)
+        attn.forward = PhiAttention.forward.__get__(attn, PhiAttention)
