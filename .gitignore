@@ -10,3 +10,4 @@ memit
 *_env
 **/__pycache__
 wandb
+*.pt

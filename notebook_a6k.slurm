@@ -2,9 +2,9 @@
 
 # // SBATCH --nodelist gv01
 #SBATCH --time=12:00:00
-#SBATCH --job-name=A100
+#SBATCH --job-name=A6000
 #SBATCH --mem=64G
-#SBATCH --gres=gpu:a100:1
+#SBATCH --gres=gpu:a6000:1
 #SBATCH --account=collabrobogroup
 #SBATCH --partition=gpu
 #SBATCH -e slurm-%j-Notebook_GPU.err
