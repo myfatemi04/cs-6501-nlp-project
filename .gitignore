@@ -11,3 +11,4 @@ memit
 **/__pycache__
 wandb
 *.pt
+brandon.slurm
