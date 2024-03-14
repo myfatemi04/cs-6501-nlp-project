@@ -19,18 +19,16 @@ def perplexity_evaluator(preds: List[str]):
 
     Lower is better.
     """
-    print("Evaluating perplexity... Lower is better.")
     perplexity = evaluate.load("perplexity", module_type="metric", cache_dir=CACHE_DIR)
 
     results = perplexity.compute(predictions=preds, model_id="microsoft/phi-2")
-    print("Perplexity scores: ", results["perplexities"])
     return results["perplexities"]
 
 
 def charcut_evaluator(ref: str, preds: List[str]):
     """
     The matching algorithm is based on an iterative search for longest common substrings, combined with a length-based threshold that limits short and noisy character matches.
-    
+
     Lower is better.
     """
     print("Evaluating charcut... Higher is better.")
