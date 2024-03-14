@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# // SBATCH --nodelist gv01
 #SBATCH --time=12:00:00
 #SBATCH --job-name=A100
 #SBATCH --mem=64G
