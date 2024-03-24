@@ -31,32 +31,36 @@ def test():
 
     branching_factors = [32, 32, 10]
 
+def ablate_neurons(mask):
+    # assert mask.shape[0] == model.config.num_hidden_layers
+    # assert mask.shape[1] == model.config.intermediate_size
+
+    def hook(neurons, layer_idx):
+        neurons[..., ~mask[layer_idx]] = 0
+        return neurons
+
+    return hook
+    
 def get_logprobs_for_completion(logits, tokens, last_n):
-    logits_for_output_tokens = logits[len(tokens) - last_n - 1:-1]
+    logits_for_output_tokens = logits[len(tokens[0]) - last_n - 1:-1]
     logprobs_for_output_tokens = torch.log_softmax(logits_for_output_tokens, dim=-1)
     # Select logprobs for specified last n tokens.
     completion_ids = tokens[-last_n:]
     logprobs_for_sampled_output_tokens = logprobs_for_output_tokens[
         torch.arange(logprobs_for_output_tokens.shape[0]),
         completion_ids
-    ]
+    ][0, -last_n:]
     return logprobs_for_sampled_output_tokens
 
-def get_deflections(layer_id, start_neuron, end_neuron, branch_depth, tokens, last_n, baseline_activations=None):
-    # Calculate and cache baseline activations.
-    if baseline_activations is None:
-        logits = model(input_ids=tokens.unsqueeze(0))[0][0]
-        baseline_activations = get_logprobs_for_completion(logits, tokens, last_n)
-    
+def get_deflections(model, layer_id, selection, tokens, last_n, baseline_activations):
     # For each layer in this coalition, simulate its removal.
     mask = torch.ones((model.config.num_hidden_layers, model.config.intermediate_size), dtype=torch.bool)
-    if num_ablation_layers > 0:
-        mask[layer_id, start_neuron, end_neuron] = False
+    mask[layer_id, selection] = False
 
     # Make the ablation.
     attach_hooks(model.model, ablate_neurons(mask))
     # Get predictions.
-    logits = model(input_ids=tokens.unsqueeze(0))[0][0]
+    logits = model(input_ids=tokens)[0][0]
     # Detach model hooks.
     detach_hooks(model.model)
     
@@ -65,6 +69,38 @@ def get_deflections(layer_id, start_neuron, end_neuron, branch_depth, tokens, la
     deflections = ablated_activations - baseline_activations
     
     return deflections
+
+def search_neuron_buckets(model, layer_id, bucket_size, tokens, last_n, trials=32):
+    logits = model(input_ids=tokens)[0][0]
+    baseline_activations = get_logprobs_for_completion(logits, tokens, last_n)
+    
+    total_deflection = torch.zeros(10240, dtype=torch.float, device="cuda")
+    
+    for sampling_stage in range(trials):
+        perm = torch.randperm(10240)
+        print("Sampling stage", sampling_stage)
+        for start_neuron in range(0, 10240, bucket_size):
+            selection = perm[start_neuron:start_neuron + bucket_size]
+            total_deflection[selection] += get_deflections(model, layer_id, selection, tokens, last_n, baseline_activations)
+    
+    return total_deflection / trials
+
+def search_neuron_buckets_bucketified(model, layer_id, bucket_size, tokens, last_n):
+    logits = model(input_ids=tokens)[0][0]
+    baseline_activations = get_logprobs_for_completion(logits, tokens, last_n)
+    
+    total_deflection = torch.zeros(10240, dtype=torch.float, device="cuda")
+    
+    perm = torch.randperm(10240)
+    for start_neuron in range(0, 10240, bucket_size):
+        selection = torch.arange(start_neuron, start_neuron + bucket_size)
+        total_deflection[selection] += get_deflections(model, layer_id, selection, tokens, last_n, baseline_activations)
+    
+    return total_deflection
+    
+    # cutoff_value = torch.quantile(total_deflection, 0.90)
+    # neurons = torch.where(total_deflection > cutoff_value)[0]
+    # return neurons
 
 def get_difference_gradient(model, prefix, expected, measured):
     # TODO: Add a kv cache.
