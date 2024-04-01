@@ -12,3 +12,4 @@ memit
 wandb
 *.pt
 brandon.slurm
+*.bin
