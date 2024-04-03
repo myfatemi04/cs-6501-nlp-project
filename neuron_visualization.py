@@ -3,7 +3,8 @@
 # This is some CSS (tells us what style )to give each token a thin gray border, to make it easy to see token separation
 style_string = """<style> 
     span.token {
-        border: 1px solid rgb(123, 123, 123)
+        border: 1px solid rgb(123, 123, 123);
+        color: black;
         } 
     </style>"""
 style_string = ''
@@ -106,7 +107,7 @@ def basic_neuron_vis_signed(tokens, acts, scale):
     #     htmls.append(
     #         f"<h4>Custom Range Set: <b>[{min_val:.4f}, {max_val:.4f}]</b></h4>"
     #     )
-    htmls.append("<pre>")
+    htmls.append("<pre style='color: black'>")
     # Convert the text to a list of tokens
     str_tokens = tokens
     for tok, act in zip(str_tokens, acts):
