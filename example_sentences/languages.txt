@@ -1,0 +1,86 @@
+- English: The cat is sleeping on the windowsill.
+- Mandarin: 他在公园里散步。
+- Spanish: El sol brilla en el cielo azul.
+- German: Meine Lieblingsfarbe ist blau. 
+- English: She rode her bike to the store to buy some groceries. 
+- Mandarin: 他在学校学习汉语。
+- Spanish: La música me hace feliz.
+- German: Ich spiele gerne Fußball am Wochenende.
+- English: The rain started falling just as we left the house.
+- Mandarin: 今天天气很晴朗，阳光明媚。
+- Spanish: Me encanta comer paella en la playa.
+- German: Mein Bruder studiert Medizin an der Universität.
+- English: The children were playing in the park with a bright red ball.
+- English: I enjoy reading books by the fireplace on chilly evenings.
+- Mandarin: 我喜歡在周末跟朋友出去吃飯。
+- Spanish: Mi perro ladra cada vez que alguien toca el timbre.
+- German: Im Sommer fahre ich gerne Fahrrad durch den Park.
+- English: The old tree in the backyard provides shade on hot summer days.
+- Mandarin: 我喜欢在家里做饭，因为可以尝试不同的菜肴。
+- Spanish: El río fluye lentamente a través del valle.
+- German: Meine Schwester spielt Klavier in einem Orchester.
+- English: The movie I watched last night was very entertaining.
+- Mandarin: 我每天都喝一杯热茶。
+- Spanish: El horario de la tienda es de 9 de la mañana a 6 de la tarde.
+- German: Ich gehe gerne wandern in den Bergen. 
+- English: I prefer to take the stairs instead of the elevator.
+- Mandarin: 我喜欢看漫画书，因为很有趣。
+- Spanish: Los pájaros cantan al amanecer en el bosque.
+- German: Mein Lieblingsessen ist Pasta mit Tomatensauce.
+- English: The bus arrives at the station every hour on the hour.
+- English: The flowers in the garden bloomed beautifully in the spring.
+- Mandarin: 我喜欢去海边散步，听海浪声音很舒服。
+- Spanish: Los colores del arcoíris son hermosos después de la lluvia.
+- German: Ich trinke gerne eine Tasse heißen Tee am Abend.
+- English: She practiced the piano diligently every day to prepare for the recital.
+- Mandarin: 今天天气很阴沉，可能会下雨。
+- Spanish: El museo está cerrado los domingos por la tarde.
+- German: Mein Auto ist blau und sehr zuverlässig.
+- English: I like to listen to music while I work.
+- Mandarin: 你想吃中餐还是西餐？
+- Spanish: El mercado está muy concurrido los sábados por la mañana.
+- German: Gestern habe ich eine Fahrradtour durch den Wald gemacht.
+- English: The sun sets over the mountains, painting the sky with hues of orange and pink.
+- Mandarin: 这本书很有趣，我已经读了一半。
+- Spanish: La torre es el punto de referencia más alto de la ciudad.
+- German: Meine Freundin studiert Architektur an der Universität.
+- English: My little brother is learning how to ride a bike.
+- Mandarin: 我喜欢在周末和朋友一起去爬山。
+- Spanish: El gato duerme plácidamente en la silla junto a la ventana.
+- German: Im Winter fahre ich gerne Ski in den Alpen.
+- English: The smell of freshly baked bread filled the kitchen.
+- Mandarin: 他的生日派对在公园举行，很热闹。
+- Spanish: El abuelo siempre cuenta cuentos fantásticos a los niños.
+- German: Meine Mutter backt die besten Kekse zur Weihnachtszeit.
+- English: She ran to catch the bus before it drove away.
+- Mandarin: 我喜欢在家里种花，让房子更漂亮。
+- Spanish: El parque está lleno de gente disfrutando del buen tiempo.
+- German: Im Sommer gehen wir oft schwimmen im See.
+- English: The students were excited for the school trip to the zoo.
+- Mandarin: 今天的晚饭是意大利面条，我最喜欢的食物。
+- Spanish: Las montañas se ven majestuosas cubiertas de nieve.
+- German: Mein Vater fährt gerne Motorrad am Wochenende.
+- English: The sound of waves crashing against the shore is so relaxing.
+- Mandarin: 她每天早晨去晨跑锻炼身体。
+- Spanish: La primavera trae consigo la floración de los árboles.
+- German: Ich trinke gerne einen Kaffee am Morgen, um wach zu werden.
+- English: The fireworks lit up the night sky in a dazzling display.
+- Mandarin: 她在公园里放风筝的时候笑得很开心。
+- Spanish: Los niños juegan en el parque mientras los padres los observan.
+- German: Im Herbst sammeln wir Kastanien im Wald.
+- English: The old cathedral in the city center is a must-see for tourists.
+- Mandarin: 春节是中国人最重要的节日之一。
+- Spanish: El marisco fresco es una especialidad de la región costera.
+- German: Mein Hund liebt es, im Park Ball zu spielen.
+- English: The hikers reached the mountain peak just before sunset.
+- Mandarin: 我喜欢在周末去音乐会欣赏音乐。
+- Spanish: La biblioteca municipal ofrece libros en varios idiomas.
+- German: Im Frühling erwachen die Blumen zu neuem Leben.
+- English: The children built a sandcastle on the beach during their vacation.
+- Mandarin: 她每天都喜欢喝一杯热茶。
+- Spanish: Las estrellas brillan en el cielo despejado de la noche.
+- German: Der Kaffee in dieser kleinen Bäckerei schmeckt köstlich.
+- English: The football team won the championship game after a tense match.
+- Mandarin: 今天下午我要去图书馆借几本小说。
+- Spanish: El museo de arte contemporáneo tiene una colección impresionante.
+- German: Das Konzert gestern Abend war großartig.

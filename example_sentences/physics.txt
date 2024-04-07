@@ -1,0 +1,60 @@
+- Newton's first law of motion states that an object will remain at rest or in uniform motion unless acted upon by an external force.
+- The speed of light in a vacuum is approximately 186,282 miles per second (299,792 kilometers per second).
+- According to Einstein's theory of general relativity, gravity is not a force but rather a curvature of spacetime caused by mass and energy.
+- The law of conservation of energy states that energy cannot be created or destroyed, only transferred or transformed from one form to another.
+- The second law of thermodynamics states that the total entropy of an isolated system can never decrease over time, and will remain constant or increase.
+- The concept of quantum mechanics describes the behavior of matter and energy on the atomic and subatomic levels.
+- The law of conservation of momentum states that the total momentum of a system remains constant if no external forces are acting on it.
+- The Higgs boson, also known as the "god particle," is an elementary particle that helps explain the origin of mass in the universe.
+- The greenhouse effect is a phenomenon where certain gases in Earth's atmosphere trap heat, leading to a warming effect on the planet.
+- The Schrödinger equation is a fundamental equation in quantum mechanics that describes how the quantum state of a physical system changes over time.
+- The concept of inertia, introduced by Galileo and further developed by Newton, describes an object's resistance to changes in its state of motion.
+- The theory of special relativity, proposed by Albert Einstein, explains how the laws of physics are the same for all non-accelerating observers and the speed of light is constant.
+- Electromagnetism is one of the four fundamental forces of nature and is responsible for the interaction between electrically charged particles.
+- The Doppler effect is the change in frequency of a wave in relation to an observer who is moving relative to the wave source.
+- Quantum entanglement is a phenomenon where two or more particles become connected in such a way that the state of one particle is dependent on the state of the others, regardless of the distance between them.
+- The Big Bang theory posits that the universe originated from a singular point of infinite density and temperature approximately 13.8 billion years ago.
+- The concept of time dilation, as predicted by Einstein's theory of special relativity, states that time can appear to move at different rates for observers in different reference frames.
+- The laws of thermodynamics govern the flow of heat and energy in a system, with the first law stating that energy cannot be created or destroyed, and the second law predicting the increase of entropy over time.
+- The photoelectric effect, discovered by Albert Einstein, describes how light can eject electrons from a material's surface when it exceeds a certain frequency threshold.
+- Quantum field theory is a theoretical framework that combines quantum mechanics with special relativity to describe the interactions of subatomic particles through fields.
+- A black hole is a region of spacetime where gravity is so strong that nothing, not even light, can escape its pull.
+- The Heisenberg Uncertainty Principle, formulated by Werner Heisenberg, states that it is impossible to simultaneously know both the precise position and momentum of a particle.
+- The theory of general relativity, proposed by Albert Einstein, provides a description of gravitation as a curvature of spacetime caused by mass and energy.
+- The electric force is one of the fundamental forces of nature, responsible for interactions between charged particles.
+- Quantum superposition is a principle in quantum mechanics where a particle can exist in multiple states or locations simultaneously until measured.
+- The laws of motion formulated by Isaac Newton laid the groundwork for classical mechanics, explaining the relationship between the motion of objects and the forces acting on them.
+- Acceleration due to gravity on Earth is approximately 9.81 meters per second squared, causing objects to fall towards the ground at a constant rate.
+- The principle of conservation of angular momentum states that the total angular momentum of a system remains constant unless acted upon by an external torque.
+- The concept of wave-particle duality in quantum mechanics suggests that particles such as electrons and photons can exhibit both wave-like and particle-like properties.
+- The concept of electric charge, whether positive or negative, is a fundamental property of matter that influences how particles interact through the electromagnetic force.
+- The Laws of Thermodynamics govern energy transfer and transformation, providing fundamental constraints on the efficiency of heat engines and other physical systems.
+- The study of astrophysics combines principles of physics and astronomy to understand the behavior of celestial bodies, stars, galaxies, and the universe as a whole.
+- The concept of wave interference explains how waves interact with each other when they overlap, resulting in effects such as constructive interference and destructive interference.
+- Quantum tunneling is a phenomenon in quantum mechanics where a particle can pass through a potential energy barrier that would be insurmountable according to classical physics.
+- The concept of entropy in thermodynamics is a measure of the disorder or randomness of a system, with systems naturally tending towards higher entropy over time.
+- The law of conservation of charge states that the total electric charge in an isolated system remains constant over time.
+- The concept of potential energy, a form of energy that is associated with an object's position or configuration, plays a crucial role in understanding mechanical systems.
+- The concept of wave-particle duality in quantum mechanics reveals that particles such as electrons can exhibit both wave-like and particle-like behavior.
+- The principle of least action states that the path taken by a system between two points is the one that minimizes the action integral, a quantity that describes the system's behavior.
+- The principle of superposition in quantum mechanics allows for the linear combination of multiple quantum states to form new quantum states.
+- The electromagnetic spectrum encompasses a range of all possible frequencies of electromagnetic radiation, from radio waves to gamma rays.
+- The concept of mass-energy equivalence, famously expressed by the equation E=mc^2, shows the equivalence between mass and energy, highlighting the interrelated nature of matter and energy.
+- The concept of dark matter, a hypothetical form of matter that does not emit, absorb, or reflect light, is thought to make up a significant portion of the total mass in the universe.
+- The study of fluid dynamics explores the behavior of fluids (liquids and gases) and their motion, including phenomena like turbulence and drag.
+- The concept of resonance occurs when an external force matches the natural frequency of an object, leading to increased amplitude of oscillations.
+- The concept of Newton's law of universal gravitation explains the attractive force between two masses, which is directly proportional to the product of the masses and inversely proportional to the square of the distance between them.
+- The concept of buoyancy, as described by Archimedes' principle, states that the buoyant force acting on an object submerged in a fluid is equal to the weight of the fluid displaced by the object.
+- The study of quantum electrodynamics (QED) combines quantum mechanics with electromagnetism to describe the interactions between particles and electromagnetic fields.
+- The concept of wave function in quantum mechanics describes the state of a quantum system and how it evolves over time according to the Schrödinger equation.
+- The laws of thermodynamics dictate the direction of heat flow and energy transfer in systems, with the third law stating that the entropy of a perfect crystal approaches zero as the temperature reaches absolute zero.
+- The concept of magnetic fields describes the region around a magnetic material or a moving electric charge where magnetic forces are experienced.
+- The principle of action-reaction, stated in Newton's third law of motion, asserts that for every action, there is an equal and opposite reaction.
+- The study of particle physics involves exploring the properties and interactions of subatomic particles, such as quarks, leptons, and bosons.
+- The concept of wave propagation describes how waves travel through a medium or space, exhibiting characteristics like reflection, refraction, and diffraction.
+- The concept of electric potential energy describes the energy stored in an electric field due to the configuration of charged particles.
+- The concept of refraction in optics explains how light changes speed and direction when passing from one medium to another, leading to phenomena like bending and dispersion.
+- The study of classical mechanics, based on Newton's laws of motion, provides a foundation for understanding the motion of macroscopic objects under the influence of forces.
+- The Pauli Exclusion Principle states that no two identical fermions, such as electrons, can occupy the same quantum state within a quantum system.
+- The concept of magnetic induction describes how a changing magnetic field can induce an electric current or electromotive force in a nearby conductor.
+- The concept of wave interference explains how waves combine to form a resultant wave, influenced by factors like phase difference and amplitude.

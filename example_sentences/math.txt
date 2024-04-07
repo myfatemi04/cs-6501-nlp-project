@@ -1,0 +1,61 @@
+- Mathematics is often referred to as the language of the universe.
+- The concept of zero was developed in ancient India.
+- The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones.
+- The golden ratio, approximately equal to 1.618, is often found in art, nature, and architecture.
+- Pythagoras is credited with the famous Pythagorean theorem in geometry.
+- Calculus, developed independently by Isaac Newton and Gottfried Wilhelm Leibniz, is a branch of mathematics that deals with rates of change and accumulations.
+- Probability theory is a branch of mathematics that deals with the likelihood of events occurring.
+- Fractals are geometric shapes that can be split into parts, each of which is a reduced-scale copy of the whole.
+- Algebraic equations involve unknown variables and are solved by performing operations to isolate the variable.
+- Trigonometry is the branch of mathematics that deals with the relationship between the sides and angles of triangles.
+- The concept of infinity in mathematics is used to represent a quantity without bound or end.
+- Geometry is a branch of mathematics that focuses on the properties and measurements of shapes and spaces.
+- The concept of prime numbers, numbers divisible only by 1 and themselves, plays a crucial role in number theory.
+- Pascal's triangle is a triangular array of numbers where each number is the sum of the two numbers directly above it in the row.
+- Vectors are quantities that have both magnitude and direction, commonly used in physics and mathematics.
+- The field of statistics involves collecting, analyzing, interpreting, and presenting data to make informed decisions.
+- Euler's identity, e^(iπ) + 1 = 0, is considered one of the most beautiful equations in mathematics.
+- The Four Color Theorem states that any map on a plane can be colored using only four colors so that no two adjacent regions have the same color.
+- The concept of limits in calculus is fundamental to understanding the behavior of functions as they approach a certain value.
+- The Riemann Hypothesis, one of the most famous unsolved problems in mathematics, concerns the distribution of prime numbers.
+- Linear algebra is a branch of mathematics that studies vectors, vector spaces, linear transformations, and systems of linear equations.
+- The concept of symmetry is prevalent in mathematics, where an object is invariant under certain transformations.
+- Binary code, a system of representing text or computer processor instructions using the binary number system, forms the foundation of computing.
+- The concept of infinity in mathematics is used in calculus, set theory, and other branches to describe unboundedness and limitlessness.
+- The Koch snowflake is a fractal curve that has an infinite perimeter but encloses a finite area.
+- The concept of probability is used in everyday life to assess the likelihood of events and make informed decisions.
+- Pascal's triangle is a mathematical array of binomial coefficients named after the famous mathematician Blaise Pascal.
+- Topology is a branch of mathematics that studies properties of space that are preserved under continuous deformations, such as stretching or bending.
+- The pigeonhole principle states that if you have more pigeons than pigeonholes, then at least one pigeonhole must contain more than one pigeon.
+- The Archimedean spiral is a curve that extends infinitely outward while getting further from a fixed point at an increasing rate.
+- The Fundamental Theorem of Arithmetic states that every integer greater than one can be written uniquely as a product of prime numbers.
+- The concept of tessellations involves covering a surface with repeating geometric shapes without any gaps or overlaps.
+- Mobius strips are interesting shapes with only one side and one edge, formed by twisting a strip of paper and connecting the ends.
+- The harmonic series in mathematics diverges, meaning it grows indefinitely without approaching a finite limit.
+- The concept of symmetry plays a crucial role in group theory, a branch of mathematics that studies symmetry in algebraic structures.
+- The Law of Cosines is a generalization of the Pythagorean theorem that relates the lengths of the sides of any triangle to the cosine of one of its angles.
+- The Koch curve is a fractal that demonstrates infinite length within a finite area, created by iterative processes of adding smaller triangles.
+- Legendre polynomials are solutions to Legendre's differential equation and play a significant role in physics and engineering.
+- In graph theory, Eulerian paths and Eulerian circuits traverse every edge of a graph exactly once.
+- Pascal's triangle is used extensively in binomial expansion, probability, and algebraic expressions.
+- The branch of mathematics known as number theory studies the properties of integers and their relationships with other numbers.
+- In set theory, a power set is a set that contains all possible subsets of a given set, including the empty set and the set itself.
+- In statistics, the standard deviation is a measure of the amount of variation or dispersion of a set of values.
+- The concept of a matrix, consisting of rows and columns of numbers or variables, is essential in linear algebra and various fields of mathematics.
+- In calculus, the concept of a derivative represents the rate of change of a function at a particular point.
+- The Collatz Conjecture is a famous unsolved problem in mathematics that involves iterating a sequence based on certain rules applied to each term.
+- The Sieve of Eratosthenes is an ancient algorithm used to find all prime numbers up to a specified integer.
+- In geometry, fractals are complex, self-similar patterns that are created by repeating a simple process over and over.
+- The concept of imaginary numbers, denoted by the square root of -1, extends the real number system and is essential in many areas of mathematics, especially in complex analysis.
+- The Hodge Conjecture in algebraic geometry postulates a certain relationship between the algebraic topology and algebraic geometry of projective varieties.
+- In calculus, the definite integral represents the signed area under the curve of a function between two given points on the x-axis.
+- Random variables in probability and statistics quantify the outcomes of random phenomena as numerical values.
+- In combinatorics, the binomial theorem provides a formula for expanding expressions of the form (a + b)^n.
+- In linear algebra, eigenvectors are vectors that, when multiplied by a matrix, keep their direction unchanged (up to a scaling factor).
+- The concept of congruence plays a significant role in number theory, modular arithmetic, and the study of geometric shapes.
+- The Gaussian distribution, also known as the normal distribution, is a probability density function that is symmetric and bell-shaped.
+- In calculus, the Taylor series is an infinite sum of terms derived from the values of a function's derivatives at a specific point.
+- In geometry, an isosceles triangle has two sides of equal length and two equal internal angles.
+- The law of large numbers in probability theory states that as the number of trials increases, the sample mean approaches the population mean.
+- In number theory, perfect numbers are positive integers equal to the sum of their proper divisors, excluding the number itself.
+- In abstract algebra, a group is a set equipped with a binary operation that satisfies closure, associativity, identity, and invertibility properties.

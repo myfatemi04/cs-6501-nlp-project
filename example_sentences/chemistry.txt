@@ -1,0 +1,82 @@
+The nucleus of an atom contains protons and neutrons, while electrons orbit around the nucleus.
+Elements are defined by the number of protons in their nucleus, known as the atomic number.
+Isotopes are forms of an element that have the same number of protons but different numbers of neutrons.
+Chemical bonds are the forces that hold atoms together in compounds. The main types of chemical bonds are ionic, covalent, and metallic.
+The periodic table organizes elements based on their atomic number and chemical properties.
+Acids are substances that release hydrogen ions (H+) in solution, while bases are substances that accept H+ ions.
+The pH scale measures the acidity or basicity of a solution. A pH of 7 is neutral, while lower values are acidic and higher values are basic.
+Organic chemistry is the study of carbon-containing compounds, which are fundamental to life.
+Chemical reactions involve the breaking and forming of chemical bonds, leading to the rearrangement of atoms to create new substances.
+The laws of conservation of mass and energy apply to chemical reactions, meaning that mass and energy cannot be created or destroyed, only transformed.
+Electronegativity is a measure of an atom's ability to attract and hold onto electrons in a chemical bond.
+The concept of oxidation states helps to track the loss or gain of electrons in chemical reactions.
+Catalysts are substances that increase the rate of a chemical reaction without being consumed in the process.
+The mole is a unit used in chemistry to express amounts of substances. One mole of a substance contains Avogadro's number of particles (6.022 x 10^23).
+A solution is a homogeneous mixture composed of a solute (substance being dissolved) and a solvent (the dissolving medium).
+The concept of equilibrium in chemistry describes a state where the rates of forward and reverse reactions are equal, resulting in no net change in the concentrations of reactants and products.
+The study of reaction rates and factors affecting them is known as chemical kinetics.
+Redox reactions involve the transfer of electrons between reactants, with one substance being oxidized (loses electrons) and another being reduced (gains electrons).
+The concept of chirality in chemistry describes molecules that are non-superimposable mirror images of each other, often having different biological effects.
+Transition metals are elements found in the d-block of the periodic table, known for their variable oxidation states and catalytic properties.
+The atomic number of an element is determined by the number of protons in its nucleus.
+Chemical reactions involve the breaking and forming of chemical bonds between atoms.
+The mole is a unit of measurement used in chemistry to express amounts of a chemical substance.
+Acids are substances that donate protons, while bases are substances that accept protons.
+The periodic table organizes elements based on their atomic number and chemical properties.
+Organic chemistry is the branch of chemistry that focuses on compounds containing carbon atoms.
+The pH scale measures the acidity or basicity of a solution, ranging from 0 (most acidic) to 14 (most basic).
+The Law of Conservation of Mass states that mass is neither created nor destroyed in a chemical reaction.
+Isotopes are atoms of the same element with different numbers of neutrons in their nuclei.
+Chemical equilibrium is a state in which the concentrations of reactants and products remain constant over time.
+Electrolytes are substances that dissociate into ions in solution and conduct electricity.
+A catalyst is a substance that increases the rate of a chemical reaction without being consumed in the process.
+Covalent bonds involve the sharing of electrons between atoms to achieve a stable electron configuration.
+The melting point of a substance is the temperature at which it transitions from a solid to a liquid state.
+The process of photosynthesis involves the conversion of sunlight, carbon dioxide, and water into glucose and oxygen.
+Inorganic chemistry is the study of compounds that do not contain carbon-hydrogen bonds.
+Chemical kinetics is the branch of chemistry that studies the rates at which chemical reactions occur.
+Avogadro's number is a constant used to represent the number of atoms, ions, or molecules in one mole of a substance.
+The reactivity of metals can be predicted based on their position in the reactivity series.
+Redox reactions involve the transfer of electrons between reactants, leading to changes in oxidation states.
+A solution is a homogeneous mixture composed of a solute (dissolved substance) and a solvent (dissolving medium).
+Thermochemistry is the study of the energy changes that occur during chemical reactions.
+Entropy is a measure of the disorder or randomness of a system and tends to increase in natural processes.
+Chemical bonding influences the physical and chemical properties of substances.
+Infrared spectroscopy is a technique used to analyze the composition of compounds based on their molecular vibrations.
+Polymers are large molecules composed of repeating structural units called monomers.
+The Arrhenius equation describes the relationship between the rate constant of a reaction and temperature.
+Transition metals are elements found in the d-block of the periodic table and often exhibit multiple oxidation states.
+The Le Chatelier's principle predicts how a system at equilibrium responds to changes in temperature, pressure, or concentration.
+Nuclear chemistry involves the study of radioactive decay, nuclear reactions, and the structure of atomic nuclei.
+The greenhouse effect is a natural process that warms the Earth's surface by trapping heat in the atmosphere.
+Vapor pressure is the pressure exerted by a vapor in equilibrium with its liquid phase at a given temperature.
+Chromatography is a technique used to separate and analyze the components of a mixture based on their different affinities for a stationary phase.
+The Bohr model describes the structure of the hydrogen atom, with electrons in quantized energy levels or shells.
+The Haber process is a method for synthesizing ammonia from nitrogen and hydrogen gases under high pressure and temperature.
+Quantum mechanics is a branch of physics that describes the behavior of particles at the atomic and subatomic levels.
+The Solvay process is used to produce sodium carbonate (soda ash) by reacting sodium chloride with ammonia and carbon dioxide.
+The concept of chirality refers to molecules that are non-superimposable mirror images of each other, known as enantiomers.
+The Rutherford model of the atom proposed that atoms have a dense nucleus surrounded by orbiting electrons.
+X-ray crystallography is a technique used to determine the three-dimensional structure of crystalline substances at the atomic level.
+Hess's Law states that the total enthalpy change for a chemical reaction is independent of the route taken to form the products.
+The Aufbau principle dictates the order in which electrons fill atomic orbitals based on increasing energy levels.
+The Van der Waals equation of state accounts for the volume of gas molecules and intermolecular forces.
+The Carnot cycle is a theoretical thermodynamic cycle that represents the most efficient heat engine possible.
+The Clausius-Clapeyron equation relates the vapor pressure of a substance to its heat of vaporization and temperature.
+Heterogeneous catalysts are catalysts that are present in a different phase from the reactants.
+Hydrocarbons are organic compounds composed of hydrogen and carbon atoms, such as alkanes, alkenes, and alkynes.
+The Beers-Lambert law quantifies the relationship between the concentration of a solute in a solution and the absorbance of light.
+Enzymes are biological catalysts that speed up chemical reactions in living organisms.
+The first law of thermodynamics states that energy cannot be created or destroyed, only transformed from one form to another.
+The Schrödinger equation describes the behavior of electrons in atoms and molecules.
+In the process of electrolysis, an electric current is passed through a substance to drive a non-spontaneous chemical reaction.
+Lewis structures are diagrams that show the bonding between atoms in a molecule and the distribution of electrons.
+The Nernst equation relates the equilibrium potential of an electrochemical cell to the concentrations of reactants and products.
+A voltaic cell converts chemical energy into electrical energy through redox reactions.
+Nuclear fission is the process of splitting a heavy atomic nucleus into lighter nuclei, releasing a large amount of energy.
+Gases can be described using the ideal gas law, which relates pressure, volume, temperature, and the number of moles of a gas.
+Sublimation is the process in which a substance transitions directly from a solid to a gas phase.
+Hydrogen bonding is a type of intermolecular force that occurs when hydrogen is bonded to a highly electronegative atom.
+The pH of a solution can be calculated using the negative logarithm of the hydrogen ion concentration.
+The Bronsted-Lowry theory defines acids as proton donors and bases as proton acceptors.
+The Law of Multiple Proportions states that when elements form multiple compounds, the ratios of the masses of the second element that combine with a fixed mass of the first element are simple whole numbers.

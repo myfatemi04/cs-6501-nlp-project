@@ -1,0 +1,562 @@
+2. She quit her job because it was too (stressful, boring).
+Context for 'stressful': She was working long hours and dealing with difficult clients.
+Context for 'boring': She was doing the same monotonous tasks every day.
+
+3. He returned the shirt because it was too (small, scratchy).
+Context for 'small': The shirt was a size too small for him.
+Context for 'scratchy': The fabric of the shirt was rough and uncomfortable.
+
+4. She turned down the promotion because it was too (demanding, low-paying).
+Context for 'demanding': The new position required her to work overtime and travel frequently.
+Context for 'low-paying': The salary for the promotion was not a significant increase from her current salary.
+
+5. They left the party early because it was too (loud, crowded).
+Context for 'loud': The music was blaring and it was difficult to hold a conversation.
+Context for 'crowded': The party was packed with people and it was hard to move around.
+6. He cancelled the reservation because the restaurant was too (expensive, far).
+Context for 'expensive': The menu prices were higher than expected and he didn't want to spend that much on a meal.
+Context for 'far': The restaurant was located on the other side of town and he didn't want to drive all that way.
+
+7. They skipped the movie because it was too (long, boring).
+Context for 'long': The movie's runtime was over three hours and they didn't want to sit through such a lengthy film.
+Context for 'boring': The reviews for the movie were negative, stating that it lacked excitement and interesting plot points.
+
+8. She returned the perfume because it was too (strong, floral).
+Context for 'strong': The scent was overpowering and gave her a headache.
+Context for 'floral': The perfume had a strong floral scent that she didn't like.
+
+9. He rejected the job offer because it was too (unstable, low-benefits).
+Context for 'unstable': The company had a history of layoffs and financial troubles.
+Context for 'low-benefits': The benefits package offered by the company was minimal and didn't meet his needs.
+
+10. They decided not to go on the hike because it was too (steep, rainy).
+Context for 'steep': The trail was very steep and they were worried about the difficulty of the hike.
+Context for 'rainy': The weather forecast predicted heavy rain and they didn't want to hike in those conditions.
+11. She returned the shoes because they were too (tight, uncomfortable).
+Context for 'tight': The shoes were too small and pinched her toes.
+Context for 'uncomfortable': The shoes caused blisters and discomfort when she walked in them.
+
+12. He stopped playing the video game because it was too (difficult, repetitive).
+Context for 'difficult': The levels became increasingly harder and he couldn't progress any further.
+Context for 'repetitive': The game involved the same tasks and challenges over and over again, becoming boring after a while.
+
+13. She didn't buy the dress because it was too (expensive, flashy).
+Context for 'expensive': The dress was over her budget and she couldn't justify the cost.
+Context for 'flashy': The dress was covered in sequins and glitter, making it too flashy for her taste.
+
+14. He left the gym because it was too (crowded, dirty).
+Context for 'crowded': The gym was packed with people and he couldn't find any available equipment.
+Context for 'dirty': The gym equipment was covered in sweat and grime, making it unhygienic to use.
+
+15. They didn't order dessert because it was too (sugary, large).
+Context for 'sugary': The dessert menu had only overly sweet options that they didn't enjoy.
+Context for 'large': The dessert portions were huge and they were too full to eat something that big.
+16. He gave up on the puzzle because it was too (challenging, time-consuming).
+Context for 'challenging': The puzzle had intricate details and difficult patterns to figure out.
+Context for 'time-consuming': The puzzle had hundreds of pieces and would take too long to complete in one sitting.
+
+17. She didn't finish the book because it was too (long, boring).
+Context for 'long': The book was over 1000 pages and she didn't have the time or patience to finish it.
+Context for 'boring': The plot was slow and the characters were uninteresting, making it difficult to stay engaged.
+
+18. He didn't buy the car because it was too (expensive, unreliable).
+Context for 'expensive': The car was out of his price range and he couldn't afford the monthly payments.
+Context for 'unreliable': The car had a history of mechanical issues and poor reviews for its performance.
+
+19. They skipped the concert because it was too (loud, crowded).
+Context for 'loud': The music at the concert was deafening and they didn't enjoy the sound quality.
+Context for 'crowded': The venue was packed with people and they couldn't find a comfortable spot to enjoy the show.
+
+20. She deleted the app because it was too (buggy, complicated).
+Context for 'buggy': The app kept crashing and had functionality issues that made it frustrating to use.
+Context for 'complicated': The app had too many features and settings that were overwhelming to navigate.
+21. He didn't finish the meal because it was too (spicy, salty).
+Context for 'spicy': The dish was loaded with hot peppers and spices that were too much for his taste buds.
+Context for 'salty': The food was overly seasoned with salt, making it too salty to eat.
+
+22. She returned the painting because it was too (abstract, colorful).
+Context for 'abstract': The painting didn't have a recognizable subject and she couldn't connect with its meaning.
+Context for 'colorful': The painting had bright, bold colors that clashed with her home decor.
+
+23. He quit the team because it was too (competitive, disorganized).
+Context for 'competitive': The team members were focused on winning at all costs and it created a toxic environment.
+Context for 'disorganized': The team had poor communication and planning, leading to confusion and frustration.
+
+24. She declined the invitation because it was too (last-minute, formal).
+Context for 'last-minute': The event was planned with short notice and she already had other commitments.
+Context for 'formal': The dress code for the event required formal attire that she didn't have.
+
+25. They skipped the hike because it was too (steep, muddy).
+Context for 'steep': The trail had a sharp incline that was too challenging for their hiking abilities.
+Context for 'muddy': The recent rain had made the trail muddy and slippery, posing a safety hazard.
+26. He didn't finish the project because it was too (time-consuming, complicated).
+Context for 'time-consuming': The project required extensive research and multiple stages that he didn't have time for.
+Context for 'complicated': The project had many intricate elements that were difficult to understand and implement.
+
+27. She left the event early because it was too (noisy, crowded).
+Context for 'noisy': The event had loud music and people talking loudly, making it hard for her to hear or communicate.
+Context for 'crowded': The venue was packed with attendees, making it difficult to move around and enjoy the event.
+
+28. He didn't buy the computer because it was too (expensive, outdated).
+Context for 'expensive': The computer had all the features he wanted but was overpriced for his budget.
+Context for 'outdated': The computer model was a few years old and didn't have the latest technology he needed.
+
+29. She didn't sign up for the class because it was too (early, advanced).
+Context for 'early': The class time was scheduled for 6 a.m., which was too early for her to commit to.
+Context for 'advanced': The class required a high level of expertise and experience that she didn't have.
+
+30. They avoided the restaurant because it was too (overcrowded, expensive).
+Context for 'overcrowded': The restaurant had a long line out the door and they didn't want to wait for a table.
+Context for 'expensive': The menu prices were beyond their dining budget and they chose a more affordable option.
+31. He didn't finish the movie because it was too (violent, slow-paced).
+Context for 'violent': The movie had graphic scenes of violence that made him uncomfortable and he decided to turn it off.
+Context for 'slow-paced': The movie had a very slow plot development and he lost interest in continuing to watch.
+
+32. She didn't buy the shoes because they were too (tight, uncomfortable).
+Context for 'tight': The shoes were too narrow and squeezed her feet uncomfortably when she tried them on.
+Context for 'uncomfortable': The shoes had hard soles and no padding, causing pain and discomfort when she walked in them.
+
+33. He declined the job offer because it was too (demanding, low-paying).
+Context for 'demanding': The job required long hours and frequent travel, which would interfere with his work-life balance.
+Context for 'low-paying': The salary offered was below market standard and not comparable to his skills and experience.
+
+34. She didn't buy the perfume because it was too (strong, floral).
+Context for 'strong': The scent of the perfume was overpowering and gave her a headache when she tried it on.
+Context for 'floral': The perfume had a strong floral fragrance that she found too overwhelming and not to her liking.
+
+35. They decided not to attend the concert because it was too (late, noisy).
+Context for 'late': The concert was scheduled to start late at night and they preferred to go to bed early.
+Context for 'noisy': The venue had poor acoustics and the music was too loud, making it difficult to enjoy the performance.
+36. He stopped eating the dish because it was too (salty, bland).
+Context for 'salty': The dish had an excessive amount of salt added, making it too salty for his taste.
+Context for 'bland': The dish lacked seasoning and flavor, making it taste dull and unappetizing.
+
+37. She didn't finish the book because it was too (long, confusing).
+Context for 'long': The book had a slow-paced plot and dragged on, making it hard for her to stay engaged.
+Context for 'confusing': The book had a complex storyline with many characters and subplots, which left her feeling lost and unable to follow along.
+
+38. He returned the item because it was too (small, damaged).
+Context for 'small': The item was not the size he expected or needed, and it didn't fit as described.
+Context for 'damaged': The item arrived with visible defects, scratches, or broken parts, making it unusable.
+
+39. She skipped the party because it was too (loud, crowded).
+Context for 'loud': The party had loud music and people talking loudly, making it hard for her to have a conversation or enjoy herself.
+Context for 'crowded': The party venue was packed with guests, and she felt overwhelmed by the number of people and lack of personal space.
+
+40. He didn't buy the car because it was too (expensive, fuel-inefficient).
+Context for 'expensive': The price of the car exceeded his budget or financial resources, making it unaffordable for him.
+Context for 'fuel-inefficient': The car had a low fuel economy and high gas consumption, which would result in costly refueling expenses.
+41. He canceled the subscription because it was too (expensive, limited).
+Context for 'expensive': The subscription fee was too high for the content and benefits it provided.
+Context for 'limited': The subscription had a restricted selection of content and features, which didn't meet his needs.
+
+42. She left the event early because it was too (crowded, disorganized).
+Context for 'crowded': The event venue was filled with too many people, making it difficult for her to move around or enjoy the activities.
+Context for 'disorganized': The event lacked clear instructions, setup, or flow, leading to confusion and chaos.
+
+43. He didn't complete the course because it was too (challenging, time-consuming).
+Context for 'challenging': The course material was highly technical and difficult to grasp, requiring too much effort to understand.
+Context for 'time-consuming': The course workload was overwhelming and required more time commitment than he could spare.
+
+44. She backed out of the project because it was too (stressful, overwhelming).
+Context for 'stressful': The project had tight deadlines and high pressure, leading to stress and anxiety.
+Context for 'overwhelming': The project scope was too large and involved more tasks than she could handle effectively.
+
+45. They opted not to travel because it was too (expensive, risky).
+Context for 'expensive': The travel costs, including accommodations and transportation, were too high for their budget.
+Context for 'risky': The destination or mode of travel posed safety concerns or uncertainties that they weren't comfortable with.
+46. He avoided the party because it was too (noisy, chaotic).
+Context for 'noisy': The party had loud music and guests talking loudly, creating an environment that was overwhelming and hard to enjoy.
+Context for 'chaotic': The party lacked organization, with too many activities happening at once, leading to confusion and disorder.
+
+47. She switched doctors because it was too (far, unresponsive).
+Context for 'far': The doctor's office was located a long distance from her home, making it inconvenient for regular appointments.
+Context for 'unresponsive': The doctor was slow to respond to messages or calls, causing delays in communication and medical care.
+
+48. He returned the game because it was too (difficult, glitchy).
+Context for 'difficult': The game had complex levels and challenges that were hard to overcome, frustrating him.
+Context for 'glitchy': The game had technical issues and bugs that interfered with gameplay and enjoyment.
+
+49. She didn't like the movie because it was too (predictable, slow-moving).
+Context for 'predictable': The movie's plot twists were easy to foresee, making the storyline uninteresting and lacking surprises.
+Context for 'slow-moving': The movie had a slow pace and dragged on, lacking action or engaging developments.
+
+50. They didn't order dessert because it was too (sweet, calorie-laden).
+Context for 'sweet': The dessert menu options were all sugary and indulgent, too sweet for their preferences.
+Context for 'calorie-laden': The desserts were high in calories and unhealthy, and they opted for a lighter option.
+51. He rejected the job offer because it was too (demanding, underpaid).
+Context for 'demanding': The job required long hours and extensive travel, which he wasn't willing to commit to.
+Context for 'underpaid': The salary offered was lower than industry standards and didn't align with his qualifications and experience.
+
+52. She didn't buy the book because it was too (expensive, poorly written).
+Context for 'expensive': The book's price was higher than she was willing to pay for a single book.
+Context for 'poorly written': The book had numerous grammatical errors, plot holes, and awkward writing that made it difficult to read.
+
+53. He avoided the restaurant because it was too (crowded, unclean).
+Context for 'crowded': The restaurant had a long wait time and was filled with diners, making it difficult to find a table.
+Context for 'unclean': The restaurant's tables, floors, or restrooms were dirty and unsanitary, giving off a bad impression.
+
+54. She declined the invitation because it was too (last-minute, exclusive).
+Context for 'last-minute': The invitation was sent with very little notice, and she already had prior commitments.
+Context for 'exclusive': The event had a restricted guest list or required special access, making her feel excluded.
+
+55. They didn't buy the car because it was too (old, expensive).
+Context for 'old': The car was several years old and showed signs of wear and tear, with outdated features.
+Context for 'expensive': The car was priced higher than they were willing to pay for a vehicle of its make and model.
+56. He didn't finish the game because it was too (complex, repetitive).
+Context for 'complex': The game had intricate puzzles and challenging levels that were hard to solve.
+Context for 'repetitive': The game had the same tasks and objectives repeated over and over, making it monotonous.
+
+57. She didn't take the job because it was too (inflexible, underpaid).
+Context for 'inflexible': The job required strict hours and didn't offer work-life balance flexibility.
+Context for 'underpaid': The salary offered was below her expectations and not commensurate with her skills and experience.
+
+58. They didn't order dessert because it was too (rich, unhealthy).
+Context for 'rich': The dessert was decadent and heavy, likely to be too filling or sweet for their taste.
+Context for 'unhealthy': The dessert was high in sugar, fat, and calories, and they chose a healthier option instead.
+
+59. He returned the shoes because they were too (small, uncomfortable).
+Context for 'small': The shoes were a size too small and pinched his feet when he wore them.
+Context for 'uncomfortable': The shoes had hard soles and rubbed against his heels, causing discomfort and pain.
+
+60. She avoided the event because it was too (formal, late).
+Context for 'formal': The event required formal attire, which she didn't have or feel comfortable wearing.
+Context for 'late': The event was scheduled to run late into the night, past her preferred bedtime.
+61. He didn't finish the book because it was too (dense, confusing).
+Context for 'dense': The book had complex themes and intricate plotlines that were hard to follow or understand.
+Context for 'confusing': The story had too many characters and subplots, making it difficult to keep track of the narrative.
+
+62. She didn't buy the dress because it was too (tight, flashy).
+Context for 'tight': The dress was too snug and didn't fit comfortably or allow for easy movement.
+Context for 'flashy': The dress had bold patterns, sequins, or embellishments that were too ostentatious for her style.
+
+63. He returned the electronics because they were too (faulty, outdated).
+Context for 'faulty': The electronics had technical malfunctions or defects that prevented them from working properly.
+Context for 'outdated': The electronics were older models with limited features or compatibility compared to newer products.
+
+64. She didn't pursue the hobby because it was too (expensive, time-consuming).
+Context for 'expensive': The hobby required costly materials, equipment, or memberships that she couldn't afford.
+Context for 'time-consuming': The hobby involved long hours of practice, study, or engagement that she couldn't commit to.
+
+65. They avoided the restaurant because it was too (crowded, understaffed).
+Context for 'crowded': The restaurant was filled with patrons and had a long wait time for tables or service.
+Context for 'understaffed': The restaurant lacked enough servers or kitchen staff, leading to slow service and mistakes.
+66. He didn't finish the workout because it was too (intense, repetitive).
+Context for 'intense': The workout had high-intensity exercises that pushed his physical limits and stamina.
+Context for 'repetitive': The workout routine had the same exercises repeated multiple times, becoming boring and monotonous.
+
+67. She didn't keep the plant because it was too (fragile, high-maintenance).
+Context for 'fragile': The plant required delicate care and was easily damaged or wilted.
+Context for 'high-maintenance': The plant needed frequent watering, pruning, and specific conditions to thrive, which she couldn't provide.
+
+68. He deleted the app because it was too (buggy, intrusive).
+Context for 'buggy': The app had glitches, crashes, or errors that interfered with its functionality and usability.
+Context for 'intrusive': The app requested too many permissions, ads, or notifications that invaded his privacy and user experience.
+
+69. She quit the class because it was too (pressured, disorganized).
+Context for 'pressured': The class had strict deadlines, tests, or expectations that created stress and anxiety.
+Context for 'disorganized': The class lacked structure, clear objectives, or resources, making it confusing and ineffective.
+
+70. They skipped the event because it was too (pricey, exclusive).
+Context for 'pricey': The event tickets or admission fees were expensive and not worth the cost to attend.
+Context for 'exclusive': The event had limited access, reserved seating, or VIP requirements that they didn't meet or want to adhere to.
+71. He canceled the subscription because it was too (limited, expensive).
+Context for 'limited': The subscription offered a narrow range of content and features that didn't justify the cost.
+Context for 'expensive': The subscription price was higher than comparable services offering more value for the same price.
+
+72. She avoided the coffee shop because it was too (crowded, noisy).
+Context for 'crowded': The coffee shop was packed with customers, making it difficult to find a seat.
+Context for 'noisy': The coffee shop had loud conversations and background music, creating an unpleasant atmosphere.
+
+73. He didn't complete the project because it was too (complex, time-consuming).
+Context for 'complex': The project required advanced skills and knowledge beyond his current abilities.
+Context for 'time-consuming': The project had multiple stages and tasks that demanded more time than he had available.
+
+74. She didn't wear the necklace because it was too (heavy, gaudy).
+Context for 'heavy': The necklace weighed down on her neck and felt uncomfortable to wear for extended periods.
+Context for 'gaudy': The necklace had overly large or flashy design elements that were not to her taste or style.
+
+75. They decided against the vacation because it was too (expensive, risky).
+Context for 'expensive': The vacation costs, including flights and accommodations, exceeded their budget.
+Context for 'risky': The destination had safety concerns, weather issues, or travel warnings that made them reconsider their plans.
+76. He dropped the class because it was too (difficult, boring).
+Context for 'difficult': The class material was challenging, requiring a high level of understanding beyond his current knowledge.
+Context for 'boring': The class lectures and assignments were unengaging, lacking interest and excitement.
+
+77. She didn't eat the dish because it was too (spicy, greasy).
+Context for 'spicy': The dish had an excessive amount of hot spices, making it too spicy for her taste buds.
+Context for 'greasy': The dish was oily and loaded with fats, making it heavy and unhealthy to eat.
+
+78. He returned the gadget because it was too (complicated, unreliable).
+Context for 'complicated': The gadget had a complex user interface and setup process that was hard to navigate.
+Context for 'unreliable': The gadget malfunctioned frequently and didn't work consistently as expected.
+
+79. She skipped the event because it was too (expensive, exclusive).
+Context for 'expensive': The event ticket prices were steep and didn't fit within her budget.
+Context for 'exclusive': The event had prestige, VIP access, or special invitations that she didn't have or qualify for.
+
+80. They avoided the store because it was too (busy, disorganized).
+Context for 'busy': The store had long lines, crowded aisles, and impatient shoppers, making it hard to shop comfortably.
+Context for 'disorganized': The store had messy displays, misplaced items, and confusing layout, making it hard to find what they needed.
+82. She didn't like the movie because it was too (predictable, long).
+Context for 'predictable': The plot of the movie was easy to anticipate, lacking suspense and surprises.
+Context for 'long': The movie had a lengthy runtime, leaving her feeling bored and impatient.
+
+83. He avoided the restaurant because it was too (loud, dirty).
+Context for 'loud': The restaurant had blaring music or noisy patrons, making it difficult to hold a conversation.
+Context for 'dirty': The restaurant tables, floors, or restrooms were unclean and unsanitary.
+
+84. She didn't continue the subscription because it was too (costly, underwhelming).
+Context for 'costly': The subscription fee was high compared to the value of the services or products provided.
+Context for 'underwhelming': The subscription content or offerings were not as exciting or valuable as expected.
+
+85. They didn't stay at the party because it was too (late, rowdy).
+Context for 'late': The party went on until the early hours of the morning, and they had to leave earlier.
+Context for 'rowdy': The party atmosphere was loud and chaotic, with disruptive or unruly behavior.
+86. He returned the shoes because they were too (tight, uncomfortable).
+Context for 'tight': The shoes were too narrow and squeezed his toes, causing discomfort.
+Context for 'uncomfortable': The shoes had hard soles and rubbed against his heels, making them painful to wear.
+
+87. She skipped the meeting because it was too (long, unproductive).
+Context for 'long': The meeting dragged on for hours, with no clear end in sight.
+Context for 'unproductive': The meeting lacked focus and direction, with little progress made on important topics.
+
+88. He avoided the store because it was too (crowded, disorganized).
+Context for 'crowded': The store was packed with shoppers, making it hard to browse comfortably.
+Context for 'disorganized': The store had shelves in disarray and items scattered haphazardly, making it difficult to find what he needed.
+
+89. She didn't buy the dress because it was too (expensive, revealing).
+Context for 'expensive': The dress was priced beyond her budget, and she couldn't justify the cost.
+Context for 'revealing': The dress had a plunging neckline or short hemline, showing more skin than she was comfortable with.
+
+90. They avoided the park because it was too (sunny, crowded).
+Context for 'sunny': The park had no shade and was too hot to enjoy under the sun.
+Context for 'crowded': The park had lots of people, making it hard to find a quiet spot to relax.
+91. He left the party early because it was too (noisy, boring).
+Context for 'noisy': The party had loud music and chatter, making it hard to have a conversation.
+Context for 'boring': The party lacked engaging activities and conversation, leaving him uninterested.
+
+92. She returned the product because it was too (large, fragile).
+Context for 'large': The product was bigger than expected and didn't fit in the designated space.
+Context for 'fragile': The product was easily breakable and didn't withstand regular use.
+
+93. He avoided the restaurant because it was too (expensive, far).
+Context for 'expensive': The restaurant had high prices that were out of his budget for a regular meal.
+Context for 'far': The restaurant was located in a distant area that required a long commute.
+
+94. She didn't sign up for the class because it was too (complicated, expensive).
+Context for 'complicated': The class had complex subject matter and prerequisites she didn't meet.
+Context for 'expensive': The class fees were high and didn't align with the value she expected to gain.
+
+95. They skipped the concert because it was too (late, crowded).
+Context for 'late': The concert was scheduled to end in the early hours of the morning, and they didn't want to stay out that late.
+Context for 'crowded': The venue was packed with people, and they preferred to avoid the large crowds.
+96. He gave up on the project because it was too (time-consuming, challenging).
+Context for 'time-consuming': The project required too much time and effort, taking away from other priorities.
+Context for 'challenging': The project presented complex problems and obstacles that he couldn't overcome.
+
+97. She returned the dress because it was too (tight, itchy).
+Context for 'tight': The dress was too small and didn't fit comfortably or allow for movement.
+Context for 'itchy': The fabric of the dress was irritating to her skin, causing discomfort and irritation.
+
+98. He didn't accept the job offer because it was too (demanding, low-paying).
+Context for 'demanding': The job required long hours and extensive responsibilities that would impact his work-life balance.
+Context for 'low-paying': The job salary was below industry standards and didn't align with his qualifications.
+
+99. She avoided the gym because it was too (crowded, unclean).
+Context for 'crowded': The gym was full of people, making it hard to access equipment and exercise comfortably.
+Context for 'unclean': The gym had dirty equipment and facilities, posing hygiene concerns. 
+
+100. They decided against the vacation because it was too (expensive, risky).
+Context for 'expensive': The vacation cost was beyond their budget, making it unaffordable.
+Context for 'risky': The destination had safety concerns or travel advisories that made them reconsider their plans.
+101. He left the event early because it was too (loud, disorganized).
+Context for 'loud': The event had loud music and noise levels that were uncomfortable for him.
+Context for 'disorganized': The event lacked clear structure and planning, leading to confusion and inefficiency.
+
+102. She didn't purchase the product because it was too (pricy, low-quality).
+Context for 'pricy': The product was priced too high for her budget compared to similar alternatives.
+Context for 'low-quality': The product had poor reviews and feedback on its durability, functionality, or performance.
+
+103. He didn't attend the concert because it was too (crowded, overpriced).
+Context for 'crowded': The concert venue was expected to have a large audience, making it difficult to find a good viewing spot.
+Context for 'overpriced': The concert tickets were too expensive relative to the musician's popularity and the overall experience offered.
+
+104. She avoided the party because it was too (exclusive, wild).
+Context for 'exclusive': The party had limited guest lists or entrance criteria that she didn't meet.
+Context for 'wild': The party was known for rowdy behavior or out-of-control situations, which she preferred to avoid.
+
+105. They skipped the movie because it was too (long, predictable).
+Context for 'long': The movie had a runtime that was longer than they were willing to sit through.
+Context for 'predictable': The movie's plot had no surprises or twists, making it uninteresting for them.
+106. He didn't finish the meal because it was too (spicy, greasy).
+Context for 'spicy': The dish had an overwhelming amount of spice that he couldn't handle.
+Context for 'greasy': The meal was drenched in oil and made him feel uncomfortable.
+
+107. She deleted the app because it was too (buggy, slow).
+Context for 'buggy': The app had frequent glitches and crashes that affected its performance.
+Context for 'slow': The app took too long to load and respond to commands.
+
+108. He returned the sweater because it was too (small, itchy).
+Context for 'small': The sweater was a size too small and didn't fit him properly.
+Context for 'itchy': The fabric of the sweater caused irritation and discomfort on his skin.
+
+109. She skipped the event because it was too (expensive, far).
+Context for 'expensive': The event ticket prices were beyond her budget.
+Context for 'far': The event location was in a distant area that would require a long commute.
+
+110. They didn't visit the amusement park because it was too (crowded, expensive).
+Context for 'crowded': The amusement park had long lines and large crowds.
+Context for 'expensive': The cost of tickets, rides, and food at the amusement park was too high for their budget.
+111. He didn't finish the book because it was too (long, boring).
+Context for 'long': The book had too many pages and dragged on without much happening.
+Context for 'boring': The plot of the book didn't capture his interest and failed to keep him engaged.
+
+112. She didn't buy the dress because it was too (expensive, flashy).
+Context for 'expensive': The price of the dress was out of her budget.
+Context for 'flashy': The dress had too many embellishments and details that didn't suit her style.
+
+113. He avoided the restaurant because it was too (loud, dirty).
+Context for 'loud': The restaurant was noisy with loud music or conversations.
+Context for 'dirty': The restaurant seemed unclean with a lack of hygiene.
+
+114. She declined the invitation because it was too (last-minute, formal).
+Context for 'last-minute': The invitation was sent with very little notice and she already had plans.
+Context for 'formal': The event required formal attire that she didn't have or feel comfortable in.
+
+115. They didn't buy the car because it was too (old, expensive).
+Context for 'old': The car was a few years old and showed signs of wear and tear.
+Context for 'expensive': The cost of the car was higher than they were willing to pay.
+116. He canceled the subscription because it was too (restrictive, expensive).
+Context for 'restrictive': The subscription had limited features and content that didn't meet his needs.
+Context for 'expensive': The subscription fee was higher than similar services offering better value.
+
+117. She avoided the party because it was too (late, crowded).
+Context for 'late': The party was scheduled to go on until the early hours of the morning.
+Context for 'crowded': The party venue was packed with people, making it difficult to move around.
+
+118. He didn't finish the project because it was too (complex, time-consuming).
+Context for 'complex': The project had intricate details and required a lot of planning and coordination.
+Context for 'time-consuming': The project demanded more time and effort than he initially anticipated.
+
+119. She didn't keep the painting because it was too (large, abstract).
+Context for 'large': The painting took up too much space in her home and overwhelmed the room.
+Context for 'abstract': The painting's artistic style and subject matter were too obscure for her taste.
+
+120. They didn't attend the concert because it was too (loud, expensive).
+Context for 'loud': The concert venue had poor acoustics, and the volume was too high for their liking.
+Context for 'expensive': The ticket prices for the concert were beyond their budget.
+121. He avoided the restaurant because it was too (crowded, noisy).
+Context for 'crowded': The restaurant was full of people, with a long wait for a table.
+Context for 'noisy': The restaurant had loud music and chatter, making it hard to have a conversation.
+
+122. She didn't finish the book because it was too (dense, confusing).
+Context for 'dense': The book had intricate details and complex plotlines that were hard to follow.
+Context for 'confusing': The storyline was convoluted and hard to understand, with many characters and subplots.
+
+123. He returned the item because it was too (expensive, low-quality).
+Context for 'expensive': The item was priced higher than similar products available elsewhere.
+Context for 'low-quality': The item was poorly made and didn't meet his expectations in terms of durability and performance.
+
+124. She avoided the theme park because it was too (crowded, pricey).
+Context for 'crowded': The theme park was filled with long lines and too many people.
+Context for 'pricey': The cost of admission and attractions at the theme park was too high for her budget.
+
+125. They didn't participate in the activity because it was too (strenuous, boring).
+Context for 'strenuous': The activity required intense physical effort beyond their capabilities.
+Context for 'boring': The activity lacked excitement and interest, making it unappealing to them.
+126. He gave up on the game because it was too (difficult, time-consuming).
+Context for 'difficult': The game had challenging levels and puzzles that he couldn't overcome.
+Context for 'time-consuming': The game required a large time commitment to progress, which he didn't have.
+
+127. She didn't buy the shoes because they were too (tight, uncomfortable).
+Context for 'tight': The shoes were too narrow and squeezed her feet, causing pain.
+Context for 'uncomfortable': The shoes had hard soles and didn't provide adequate support for long-term wear.
+
+128. He avoided the movie because it was too (lengthy, predictable).
+Context for 'lengthy': The movie had a long runtime that he didn't have time for.
+Context for 'predictable': The movie's plot was easy to foresee, making it uninteresting for him.
+
+129. She declined the invitation because it was too (formal, exclusive).
+Context for 'formal': The event had a strict dress code that required formal attire.
+Context for 'exclusive': The event had limited guest lists or required special access that she didn't have.
+
+130. They skipped the concert because it was too (loud, crowded).
+Context for 'loud': The concert venue had high decibel levels that were uncomfortable for them.
+Context for 'crowded': The concert was sold out, and they didn't want to be in a densely packed crowd.
+131. He avoided the restaurant because it was too (expensive, noisy).
+Context for 'expensive': The restaurant had menu prices that were beyond his budget.
+Context for 'noisy': The restaurant had a loud ambiance with music and conversations that made it hard to converse.
+
+132. She didn't finish the book because it was too (complex, dull).
+Context for 'complex': The book had a convoluted plot and intricate themes that were hard to follow.
+Context for 'dull': The storyline was uneventful and lacked engaging elements that kept her interested.
+
+133. He returned the product because it was too (small, low-quality).
+Context for 'small': The product size was smaller than expected, failing to meet his needs.
+Context for 'low-quality': The product was made with inferior materials and didn't meet his expectations.
+
+134. She avoided the event because it was too (far, costly).
+Context for 'far': The event location was too distant, making travel inconvenient.
+Context for 'costly': The event tickets were priced too high for her budget.
+
+135. They didn't go to the show because it was too (late, crowded).
+Context for 'late': The show started at a time that didn't fit their schedule.
+Context for 'crowded': The show was expected to draw a large audience, making it difficult to find seats.
+136. He avoided the party because it was too (lively, chaotic).
+Context for 'lively': The party was filled with energetic music and dancing, which he preferred to avoid.
+Context for 'chaotic': The party had a disorganized atmosphere with loud conversations and commotion.
+
+137. She didn't order the dessert because it was too (sweet, rich).
+Context for 'sweet': The dessert was sugary and overly sweet, not to her taste.
+Context for 'rich': The dessert was heavy and creamy, with decadent ingredients that she didn't enjoy.
+
+138. He returned the gadget because it was too (complicated, glitchy).
+Context for 'complicated': The gadget had too many functions and settings that were hard for him to understand.
+Context for 'glitchy': The gadget had technical issues and software bugs that affected its performance.
+
+139. She skipped the concert because it was too (expensive, far).
+Context for 'expensive': The concert tickets were priced higher than she was willing to pay.
+Context for 'far': The concert venue was located a long distance from her home, making it inconvenient to attend.
+
+140. They decided against the hike because it was too (steep, rainy).
+Context for 'steep': The hiking trail had a sharp incline that was challenging for their skill level.
+Context for 'rainy': The weather forecast predicted heavy rain, making it unsafe to hike.
+141. He returned the phone because it was too (complicated, expensive).
+Context for 'complicated': The phone had a complex user interface and features that he couldn't navigate easily.
+Context for 'expensive': The phone cost more than he was willing to pay for a device with similar specifications.
+
+142. She avoided the gym because it was too (crowded, unclean).
+Context for 'crowded': The gym was full of people, making it difficult to access equipment.
+Context for 'unclean': The gym had dirty equipment and facilities, posing hygiene risks.
+
+143. He didn't complete the course because it was too (demanding, uninteresting).
+Context for 'demanding': The course workload was heavy and required more time and effort than he could commit.
+Context for 'uninteresting': The course content failed to hold his attention and motivate him to continue.
+
+144. She declined the invitation because it was too (last-minute, formal).
+Context for 'last-minute': The invitation was sent with short notice, and she had prior commitments.
+Context for 'formal': The event required formal attire, which she didn't have available.
+
+145. They skipped the movie because it was too (violent, long).
+Context for 'violent': The movie had graphic scenes of violence that they didn't want to watch.
+Context for 'long': The movie's runtime was extended, and they didn't have the time to sit through it.
+146. He avoided the restaurant because it was too (fancy, pricey).
+Context for 'fancy': The restaurant had a formal dress code and upscale ambiance that he wasn't comfortable with.
+Context for 'pricey': The restaurant menu had high prices that were above his dining budget.
+
+147. She didn't complete the project because it was too (overwhelming, time-consuming).
+Context for 'overwhelming': The project had too many tasks and details to handle, causing stress.
+Context for 'time-consuming': The project required more time and dedication than she could spare.
+
+148. He returned the gift because it was too (small, impersonal).
+Context for 'small': The gift size was too insignificant and not what he expected.
+Context for 'impersonal': The gift lacked thought and meaning, feeling generic and unconnected to him.
+
+149. She avoided the party because it was too (loud, crowded).
+Context for 'loud': The party had loud music and noise levels that were overwhelming.
+Context for 'crowded': The party was packed with people, leaving little space to move around comfortably.
+
+150. They decided against the road trip because it was too (long, costly).
+Context for 'long': The road trip distance was significant, requiring more time than they had available.
+Context for 'costly': The road trip expenses, such as fuel and accommodation, were higher than their budget allowed.
